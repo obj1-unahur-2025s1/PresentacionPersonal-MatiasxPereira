@@ -1,13 +1,18 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
 # Programación con objetos I
-## Presentación Personal
+## MATIAS PEREIRA
+Hola, me llamo Matias, tengo 23 años y estoy cursando mi segundo año de la carrera.
+Mi ultimo año de la secundaria lo pasé en pandemia haciendo pasantías virtuales, 
+luego me anote en la UTN para ingenieria electrónica pero no era para mi. 
+![Mati Pereira](./FotoGithub.png)
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Matias Emilio Pereira
+- Vivo en Ituzaingo
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo cuenta en github gracias a un curso de python que hice donde nos introducieron en la aplicación.
+- Hincha de San Lorenzo.
+- NeneScaloneta.
