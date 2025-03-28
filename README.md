@@ -7,7 +7,7 @@ Mi ultimo año de la secundaria lo pasé en pandemia haciendo pasantías virtual
 luego me anote en la UTN para ingenieria electrónica pero no era para mi. 
 Llegue a la unahur gracias a la recomendación de un amigo que me recomendo la facultad y la carrera ya que me vió sin rumbo. 
 
-![Mati Pereira](./FotoGithub.png)
+
 ![Image](https://github.com/user-attachments/assets/b24c67c9-733b-4e44-a36e-5122e03e707e)
 
 ### Datos Personales
